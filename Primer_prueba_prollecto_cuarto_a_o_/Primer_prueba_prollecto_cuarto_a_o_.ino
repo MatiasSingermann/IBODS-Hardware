@@ -1,3 +1,4 @@
+#include <ESP8266HTTPClient.h>
 #include <ESP8266WiFiMulti.h>
 #include <WiFiClient.h>
 
